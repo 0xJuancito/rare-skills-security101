@@ -9,7 +9,3 @@ typechain-types
 #Hardhat files
 cache
 artifacts
-
-#Problem Solutions
-contracts_optimized
-contracts/contracts_optimized/*
